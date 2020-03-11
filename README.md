@@ -31,21 +31,26 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres)
 
-Después de ojear varios sitios he seleccionado couchsurfing.com, el motivo es porque lo primera con lo que te encuentras al
-entrar es que te obliga a registrarte ya sea con tu correo o con tu facebook antes de acceder al sitio propiamente dicho
-lo cual puede generar un rechazo directo para muchos usuarios, encima la información viene solo en inglés aunque la
-página si esté en español, a su vez la propia página es bastante desordenada y poco clara visualmente.
+Después de ojear varios sitios he seleccionado **couchsurfing.com**, el motivo es que me ha impresionado como lo primero que aparece al entrar al sitio sea una pantalla de registro que no te permite acceder a la página en si, además toda la información que la propia página ofrece está en inglés. A esto se le suma que la propia página en si no es muy intuitiva.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+La primera persona presenta los problemas de alguien que no confía mucho en la red
+y no domina otros idiomas y como se podría perder en esta página
+
+Con esta persona busco alguien que pueda usar la página con facilidad pero que
+se encuentre problemas humanos.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres)
+La primera experiencia es la de una persona que se encuentra con los problemas que
+ofrece la página a los usuarios menos experimentados.
+
+Esta experiencia intenta mostrar los problemas humanos que se pueda encontrar una persona
+al usar esta página.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
