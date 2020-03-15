@@ -54,11 +54,12 @@ al usar esta página.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf)
->>> - Valoración final (numérica):
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+
+>>>> SE deben incluir claramente los siguientes elemento
+
+Enlace al documento: Se encuentran en la carpeta de P1
+Valoración final (numérica): 76
+Comentario sobre la valoración:  Como demuestra la puntuación, se trata de una buena página, pero su diseño poco intuitivo y falta de algunas características puedan dar una mala primera impresión.
 
 
 ## Paso 2. UX Design  
