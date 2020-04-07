@@ -72,13 +72,29 @@ Comentario sobre la valoración:  Como demuestra la puntuación, se trata de una
 
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
+
 Propongo crear una aplicación similar a couch surfing en cuanto funcionalidad, pero menos intimidante a los
 nuevos usuarios facilitando el uso y haciendo un diseño más intuitivo.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap
 -----
 
->>> Definir "User Map" y "Task Flow" ...
+|Objetivos/Usuarios|Usuarios habituales|Usuarios ocasionales o nuevos|administradores|
+|-|-|-|-|
+|Registrarse en la página (importante)|H|H||
+|Buscar información o ayuda (importante)|L|H||
+|Unirse a un grupo|M|H||
+|Crear un grupo|H|L||
+|Buscar un sofá (importante)|H|H||
+|Ofrecer su sofá (importante)|H|L||
+|Consultar dudas o problemas|L|H|H|
+|Realizar búsquedas personalizadas|H|M||
+|Expandir su perfil con info no obligatoria|H|L||
+|Moderar o banear usuarios|||H|
+|Añadir amigos|H|M||
+|Organizar eventos|M|L|H|
+|Unirse a eventos|H|M||
+|Valorar usuario|M|L||
 
 
 ![Método UX](img/labelling.png) 2.c Labelling
