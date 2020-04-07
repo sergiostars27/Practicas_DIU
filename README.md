@@ -98,14 +98,33 @@ nuevos usuarios facilitando el uso y haciendo un diseño más intuitivo.
 
 
 ![Método UX](img/labelling.png) 2.c Labelling
-----
 
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+|Termino|Significado|
+|-|-|
+|Registrarse|Permite registrarse|
+|Iniciar sesión|Una vez registrados permite iniciar nuestra sesión|
+|Información|Nos lleva a toda la información referente a la página|
+|Foro de dudas|Nos lleva al foro donde podemos preguntar cualquier duda que tengamos sobre la página|
+|Perfil|Accede a nuestro perfil|
+|Editar perfil|Nos permite editar la información de nuestro perfil|
+|Amigos|Nos permite enviar solicitudes de amistad y acceder a nuestros amigos|
+|Mi casa|Accedemos a la información sobre la casa de ese perfil|
+|Fotos|Accedemos a las fotos que tenga el usuario del perfil|
+|Mensajes|Accedemos a los mensajes recibidos|
+|Planes|Nos muestra los grupos, eventos o sofás a los que nos hemos unido|
+|Intereses|Nos muestra los grupos, eventos o sofás que nos interesen pero aún no nos hayamos unido|
+|Búsqueda|Nos permite realizar una búsqueda|
+|Buscar sofás|Solo nos muestra sofás|
+|Buscar eventos|Solo nos muestra eventos|
+|Buscar grupos|Solo nos muestra grupos|
+|Buscar usuarios|Solo nos muestra usuarios|
+|Personalizar búsqueda|Nos permite añadir parámetros para personalizar nuestra búsqueda|
+|Crear|Entramos al menú de creación|
+|Crear sofá|Nuestro sofá aparecerá al resto de usuarios|
+|Crear grupo|Nos permite crear un grupo que aparecerá al resto de usuarios|
+|Crear eventos|Nos permite crear un evento que aparecerá al resto de usuarios, solo aparecerá si somos usuarios bien valorados|
+|Valorar positivamente|Nos permite valorar a un usuario de forma positiva y dejar un comentario al respecto|
+|Valorar negativamente|Nos permite valorar a un usuario de forma negativa y dejar un comentario al respecto|
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
