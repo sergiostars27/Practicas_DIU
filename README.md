@@ -1,7 +1,7 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
-Grupo: DIU1_01AABB.  Curso: 2019/20
+Grupo: DIU2_cumbia.  Curso: 2019/20
 
 Proyecto:
 
@@ -66,22 +66,14 @@ Comentario sobre la valoración:  Como demuestra la puntuación, se trata de una
 
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
-----
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
 
 
 
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+Propongo crear una aplicación similar a couch surfing en cuanto funcionalidad, pero menos intimidante a los
+nuevos usuarios facilitando el uso y haciendo un diseño más intuitivo.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap
 -----
