@@ -31,4 +31,6 @@ añadir un comentario para explicar el porque de la valoración que será tenido
 cuenta por los administradores para revocar ciertos votos si no representasen la
 realidad.
 
-En general  
+En general mi objetivo es hacer una página que reciba a los nuevos usuarios y les  
+ayude a comenzar su experiencia a la vez que recompensa a los usuarios activos y
+positivos de la comunidad.

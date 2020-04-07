@@ -130,7 +130,7 @@ nuevos usuarios facilitando el uso y haciendo un diseño más intuitivo.
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación )
+
 
 
 ## Paso 3. Make (Prototyping)
