@@ -94,7 +94,7 @@ A partir de las ideas obtenidas en la etapa anterior, podemos comenzar a forjar
 nuestra página, para ello realizaremos un feedback Capture Grid para ver
 que funciona, que no y en que debemos centrar nuestra atención.
 
-Más [aquí](https://github.com/sergiostars27/Practicas_DIU/tree/master/P2)
+Más [aquí](/P2/README.MD)
 
 ![](./P2/FeedbackCaptureGrid.jpg)
 
@@ -193,7 +193,7 @@ pega con la temática de la página (King Couch).
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+[Aquí](P3/video.mp4)
 
 
 ## Paso 4. UX Check (Usability Testing)
