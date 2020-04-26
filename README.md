@@ -55,6 +55,10 @@ muy diferencidas, uno no es muy diestro con el uso de tecnologías e idiomas mie
 que la otra las domina más y puede pasar por las barreras iniciales que presentan
 las páginas de este estilo.
 
+![](./P1/Antonio_Gallego.png)
+
+![](./P1/Marta_Juarez.png)
+
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
@@ -62,6 +66,10 @@ A partir de estas personas crearemos experiencias que nos muestren como reaccion
 ante la página estudiada. El primero se ve sobrellevado por las barreras de entrada
 de la página y se siente molesto al tener que pedir ayuda para usarla. La segunda
 tiene problemas más humanos que serían normales en páginas de este estilo.
+
+![](./P1/Antonio_Gallego_JourneyMap.png)
+
+![](./P1/Marta_Juarez_JourneyMap.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
@@ -86,6 +94,10 @@ A partir de las ideas obtenidas en la etapa anterior, podemos comenzar a forjar
 nuestra página, para ello realizaremos un feedback Capture Grid para ver
 que funciona, que no y en que debemos centrar nuestra atención.
 
+Más [aquí](https://github.com/sergiostars27/Practicas_DIU/tree/master/P2)
+
+![](./P2/FeedbackCaptureGrid.jpg)
+
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap
 -----
 Ahora podemos ver un sitemap que nos ayudará a ver a quien esta dirigido cada
@@ -109,6 +121,7 @@ que tendrá para la página.
 |Unirse a eventos|H|M||
 |Valorar usuario|M|L||
 
+![](./P2/TaskFlow.png)
 
 ![Método UX](img/labelling.png) 2.c Labelling
 
@@ -158,8 +171,8 @@ La conclusión es que usan una forma muy expresiva de contarlo, de forma que
 el lector puede saber que problemas se encontraron en todo momento y
 como los solucionaron. Los elementos más interesantes han ido el Affinity Map y
 el Feature Priorisation ayudando a descubrir que quiere el usuario de verdad y que
-deben prioriar los diseñadores respectivamente.
-Más [aquí](./p3/)
+deben priorizar los diseñadores respectivamente.
+Más [aquí](P3/README.md)
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
@@ -167,11 +180,16 @@ Para el logo hemos usado photoshop CS6, la idea era combinar el sofá que repres
 la idea del couchsurfing y lo personal y hogareña que es la actividad con una corona
 que represente la comodidad que ofrece la página.
 
+![Método UX](P3/logo.jpg)
+![Método UX](P3/Banner.jpg)
+
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 Tanto el estilo de letra como los colores usados eran recomendados en webs que hablaban
 sobre la creación de sitios profesionales. Lo que ha decantado su decisión es su tomo royal que
 pega con la temática de la página (King Couch).
+
+![Método UX](P3/estilo.jpg)
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
