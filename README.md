@@ -193,7 +193,7 @@ pega con la temática de la página (King Couch).
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
-[Aquí](P3/video.mp4)
+[Aquí](https://youtu.be/cxyWgaKmz6k)
 
 
 ## Paso 4. UX Check (Usability Testing)
