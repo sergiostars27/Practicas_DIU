@@ -58,7 +58,7 @@ propósito real detrás.
 
 Se ha evaluado el grupo RushB de DIU3:
 
--DIU3.: (https://github.com/juanzip/DIU20)
+-DIU3.RushB: (https://github.com/juanzip/DIU20)
 
 Hay pocas cosas positivas a destacar en esta práctica, quizás los bocetos de diseño
 de la página sean lo más trabajado de todo.
