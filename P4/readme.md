@@ -29,7 +29,7 @@ En general se trata de un trabajo que ha ido mejorando conforme avanzaba, desde 
 no muy bien explicada y poco explorada, hasta un diseño interesante y vistoso que tapa un
 poco los elementos menos trabajados.
 
-[valoración](P4/DIU1_QWERT_EstudioDeCaso.pdf)
+[valoración](DIU1_QWERT_EstudioDeCaso.pdf)
 
 
 ## Caso 2
@@ -51,7 +51,7 @@ pues parece que haya sido pensado sobre la marcha en lugar de planificado. Esto 
 nota sobre todo el las personas y journey maps que son muy genéricas y no tienen
 propósito real detrás.
 
-[valoración](P4/DIU2_GMI_EstudioDeCaso.pdf)
+[valoración](DIU2_GMI_EstudioDeCaso.pdf)
 
 
 ## Caso 3
@@ -71,7 +71,7 @@ apenas trabajado. Además no se ha editado el github para que parezca una histor
 diseño. Este proyecto no está muy pulido y necesita trabajo extra para ser mejorado
 y poder estar a la par con algunos de sus compañeros.
 
-[valoración](P4/DIU3_RUSHB_EstudioDeCaso.pdf)
+[valoración](DIU3_RUSHB_EstudioDeCaso.pdf)
 
 ## User Testing
 
