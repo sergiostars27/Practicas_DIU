@@ -195,45 +195,49 @@ pega con la temática de la página (King Couch).
 ----
 [Aquí](https://youtu.be/cxyWgaKmz6k)
 
+## Paso 4. Evaluación
 
-## Paso 4. UX Check (Usability Testing)
 
-
-![Método UX](img/ABtesting.png) 4.a A/B Testing
+![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
->>> Comprobacion de asignaciones para A/B Testing. Asignaciones https://github.com/mgea/DIU19/blob/master/ABtesting.md
+Los casos han sido analizados más profundamente en el [read](P4/README.md) de P4. Los casos en
+cuestión son:
 
->>>> Práctica A:
+  -El grupo asignado era DIU1.Nomadizers, pero falta casí todo el trabajo, asique
+  analizare el grupo DIU1.QWERTY: (https://github.com/Gsandoval96/DIU20)
+
+  -DIU2.GMI: (https://github.com/GonzaloMartinezIanez/DIU2-GMI)
+
+  -DIU3.rushB: (https://github.com/juanzip/DIU20)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Usuarios para evaluar prácticas
+DIU1.QWERTY: Para este caso usaremos a Antonio Gallego
+
+DIU2.GMI: En este caso elegiremos a Antonio Gallego
+
+DIU3.rushB: Es complicado pues no hay información sobre la app, pero usaremos a
+Marta Juarez
 
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B
-
-
-![Método UX](img/Survey.png). 4.c Cuestionario SUS
+![Método UX](img/Survey.png). 4.c Ranking
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+DIU1.QWERTY: (https://github.com/Gsandoval96/DIU20) = 72|Bueno
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal
+DIU2.GMI: (https://github.com/GonzaloMartinezIanez/DIU2-GMI) = 54|Justo pero no brillante
+
+DIU3.rushB: (https://github.com/juanzip/DIU20) = 49|Flojillo
 
 
-![Método UX](img/usability-report.png) 4.c Usability Report
-----
+En general creo que esta práctica ha sido increíblemente útil. Viendo a otros compañeros
+es sencillo ver los errores propios cometidos, ya que resaltan mucho más en otros. Además
+se puede ver que han hecho bien y como se han planteado situaciones que para nosotros eran
+problemáticas. Además ha sido muy bueno ver distintos enfoques con los que se ha afrontado
+la práctica.
 
->> Añadir report de usabilidad para práctica B
 
 
 
